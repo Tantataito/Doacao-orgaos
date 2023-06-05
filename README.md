@@ -2,8 +2,8 @@
 
 Trabalho da faculdade.
 
-DATABASE: orgaosdoacao ||
+DATABASE: orgaosdoacao ||</br>
 TABLE: doadores || </br>
-COLUMNS: nome, email (VARCHAR) ||
+COLUMNS: nome, email (VARCHAR) ||</br>
 PRIMARY KEY: INT, NOT NULL, AUTO_INCREMENT
 
