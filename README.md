@@ -1,3 +1,3 @@
 # Doacao-orgaos
 
-Trabalho para a faculdade!
+Trabalho para de faculdade.
