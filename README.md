@@ -2,6 +2,6 @@
 
 Trabalho da faculdade.
 
-database: orgaosdoacao|
-table: doadores|
+database: orgaosdoacao ||
+table: doadores ||
 Colluns: nome, email (VARCHAR)
